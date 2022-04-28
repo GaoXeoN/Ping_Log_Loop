@@ -19,3 +19,5 @@ Slightly modified but I don't take any credit for that piece of code.
 3) Open the file *\_run_script.ahk* with notepad and change the ip numbers to what you want to ping, if you want to ping more ip numbers, just copy a new line (the whole line) and if you want fewer, just delete unwanted lines
 4) Then run (double click) *\_run_skript.ahk* (it vill run until you stop it or the os rebot or stop working)
 5) To stop the ping script you just run *\_stop_script.ahk* (or put a text file named stop.txt in the same folder)
+
+If you don't like to run my *ping.exe* you can can create one my right click on *ping.ahk* and click *Compile Script* (AutoHotkey need to be installed)
